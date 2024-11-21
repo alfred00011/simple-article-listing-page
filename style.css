@@ -26,17 +26,11 @@ body {
 }
 
 .card-description {
-  @media (min-width: 668px) {
+  
     display: flex;
     align-items: center;
     margin: 24px;
-  }
-  @media (max-width: 667px) {
-    display: grid;
-    align-items: start;
-    justify-items: start;
-    margin: 24px;
-  }
+  
   
 }
 
